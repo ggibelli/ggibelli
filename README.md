@@ -1,5 +1,5 @@
 # Giovanni Gibelli
-Full Stack Web Developer who love to code in React and build complex web applications using the latest technologies.
+Full Stack Web Developer who love to code in TypeScript, mainly React and build complex web applications using the latest technologies.
 
 Latest project was a Wine trading app that connects wineries in need to sell or buy bulk wine, choosing between more than 4000 Italian wines. Every wine has a different grape composition by Italian law, the user can choose the right vineyards after selecting the wine. The user can post an ad, and if there is already a wine listed that matches the parameters, the user can send a message to the seller/buyer. The ads, messages, negotiations and reviews can be filtered, sorted and there is pagination on the server to improve performance. The app sends a notification and a mail when a new wine is posted that matches the user's active ad, users can chat in real-time, leave reviews and manage active negotiations and posted ads.
 
