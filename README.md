@@ -1,7 +1,7 @@
 # Giovanni Gibelli
-Full Stack Web Developer who love to code in TypeScript, and build complex web applications using the latest technologies.
+Full Stack Web Developer whos love to code in TypeScript, and build complex web applications using the latest technologies.
 
-My biggest project was a Wine trading app that connects wineries in need to sell or buy bulk wine, choosing between more than 4000 Italian wines. The user can post an ad, and if there is already a wine listed that matches the parameters, the user can send a message to the seller/buyer. The ads, messages, negotiations and reviews can be filtered, sorted and there is pagination support. The app sends a notification and a mail when a new wine is posted that matches the user's active ad, users can chat in real-time, leave reviews and manage active negotiations and posted ads.
+My biggest project is a Wine trading app that connects wineries in need to sell or buy bulk wine, choosing between more than 4000 Italian wines. The user can post an ad, and if there is already a wine listed that matches the parameters, the user can send a message to the seller/buyer. The ads, messages, negotiations and reviews can be filtered, sorted and there is pagination support. The app sends a notification and a mail when a new wine is posted that matches the user's active ad, users can chat in real-time, leave reviews and manage active negotiations and posted ads.
 
 Before I discovered how interesting and rewarding programming can be, I worked as a PLC programmer for 5 years mainly in the wine making field and traveled in more than 20 countries.
 
@@ -14,7 +14,7 @@ In my free time I enjoy to code, surf and travel.
 • GraphQL  <br />
 • MongoDB for Back End Database Management <br />
 • React Native for building mobile versions of applications <br />
-• Test Driven Development using Cypress <br />
+• Test Driven Development using Jest and Cypress <br />
 • Git and GitHub for Version Control <br />
 • CI/CD with GitHub Actions and Heroku <br />
 • Docker <br />
